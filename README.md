@@ -1,2 +1,2 @@
 # Artificial GRCRs - HALOS
-This repository contains directories for the analysis codes and source images used in the paper, titled "A DNA-based synthetic GPCR enables programmable inside-out signaling in live cells"
+This repository contains directories for the analysis codes used in the paper, titled "DNA branch migration across intact lipid membranes enables programmable transmembrane signaling and amplification".
